@@ -1,0 +1,7 @@
+{
+    "apiKey": "mon_api_key",
+    "dbHost": "localhost",
+    "dbPort": 27017,
+    "dbName": "mon_application"
+  }
+  
